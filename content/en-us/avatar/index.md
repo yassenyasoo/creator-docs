@@ -15,7 +15,7 @@ Whether you're creating and selling a basic accessory, clothes, or an avatar cha
 
 1.  **Modeling and Creation** &mdash; Create the asset in a third-party software such as Blender or Maya.
 
-    - Roblox supports many types of third-party models, but assets intended for the Marketplace require their own specifications for [rigid accessories](../art/accessories/specifications.md), [clothing accessories](../art/accessories/clothing-specifications.md), and [bodies](../art/characters/specifications.md).
+    - Roblox supports many types of third-party models, but assets intended for the Marketplace require their own specifications for [rigid accessories](../art/accessories/specifications.md), [clothing accessories](../art/accessories/clothing-specifications.md)ن, and [bodies](../art/characters/specifications.md).
 
 2.  **Importing and Uploading** &mdash; Add your creation to the Roblox servers through Studio.
 
